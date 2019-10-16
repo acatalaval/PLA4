@@ -1,0 +1,172 @@
+Wed Oct 16 20:50:49 CEST 2019 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+
+Escoja opción:
+1.- PROVEEDORES
+2.- PRODUCTOS
+0.- Salir
+1
+
+Escoja opción:
+1.- Ver todos los proveedores
+2.- Ver un proveedor concreto
+3.- Crear un nuevo proveedor
+4.- Modificar un proveedor
+5.- Eliminar un proveedor
+1
+1 B1231231 Orly Distribuciones Plaza Molina 21 Barcelona
+2 B1234444 Dubal cosmetics calle Mayor 44 Tarragona
+4 B4141411 Podemos con Todo Carrer de la ola 24 Granollers
+5 B6464646 Girlboss Carrer Nou 26 Mataro
+
+Escoja opción:
+1.- PROVEEDORES
+2.- PRODUCTOS
+0.- Salir
+1
+
+Escoja opción:
+1.- Ver todos los proveedores
+2.- Ver un proveedor concreto
+3.- Crear un nuevo proveedor
+4.- Modificar un proveedor
+5.- Eliminar un proveedor
+2
+Introduzca el id del proveedor que quiere ver: 
+1
+ID:1 | NIF: B1231231 | Nombre: Orly Distribuciones | Dirección: Plaza Molina 21 Barcelona
+
+Escoja opción:
+1.- PROVEEDORES
+2.- PRODUCTOS
+0.- Salir
+1
+
+Escoja opción:
+1.- Ver todos los proveedores
+2.- Ver un proveedor concreto
+3.- Crear un nuevo proveedor
+4.- Modificar un proveedor
+5.- Eliminar un proveedor
+3
+Introduzca el nif del nuevo proveedor : 
+B12345678
+Introduzca el nombre del nuevo proveedor : 
+Java for Dummies
+Introduzca la direccion del nuevo proveedor : 
+Debajo del puente 100 Badajoz
+Nuevo proveedor añadido
+
+Escoja opción:
+1.- PROVEEDORES
+2.- PRODUCTOS
+0.- Salir
+1
+
+Escoja opción:
+1.- Ver todos los proveedores
+2.- Ver un proveedor concreto
+3.- Crear un nuevo proveedor
+4.- Modificar un proveedor
+5.- Eliminar un proveedor
+1
+1 B1231231 Orly Distribuciones Plaza Molina 21 Barcelona
+2 B1234444 Dubal cosmetics calle Mayor 44 Tarragona
+4 B4141411 Podemos con Todo Carrer de la ola 24 Granollers
+5 B6464646 Girlboss Carrer Nou 26 Mataro
+7 B12345678 Java for Dummies Debajo del puente 100 Badajoz
+
+Escoja opción:
+1.- PROVEEDORES
+2.- PRODUCTOS
+0.- Salir
+1
+
+Escoja opción:
+1.- Ver todos los proveedores
+2.- Ver un proveedor concreto
+3.- Crear un nuevo proveedor
+4.- Modificar un proveedor
+5.- Eliminar un proveedor
+5
+Introduzca el id del proveedor que quiere eliminar: 
+7
+Proveedor eliminado
+
+Escoja opción:
+1.- PROVEEDORES
+2.- PRODUCTOS
+0.- Salir
+1
+
+Escoja opción:
+1.- Ver todos los proveedores
+2.- Ver un proveedor concreto
+3.- Crear un nuevo proveedor
+4.- Modificar un proveedor
+5.- Eliminar un proveedor
+1
+1 B1231231 Orly Distribuciones Plaza Molina 21 Barcelona
+2 B1234444 Dubal cosmetics calle Mayor 44 Tarragona
+4 B4141411 Podemos con Todo Carrer de la ola 24 Granollers
+5 B6464646 Girlboss Carrer Nou 26 Mataro
+
+Escoja opción:
+1.- PROVEEDORES
+2.- PRODUCTOS
+0.- Salir
+2
+
+Escoja opción:
+1.- Ver todos los productos
+2.- Ver un producto concreto
+3.- Crear un nuevo producto
+4.- Modificar un producto
+5.- Eliminar un producto
+1
+1 Esmalte ECO 9.0000 1
+2 Pinzas planas 14.5000 2
+3 Acetona ECO 7.5000 2
+
+Escoja opción:
+1.- PROVEEDORES
+2.- PRODUCTOS
+0.- Salir
+2
+
+Escoja opción:
+1.- Ver todos los productos
+2.- Ver un producto concreto
+3.- Crear un nuevo producto
+4.- Modificar un producto
+5.- Eliminar un producto
+2
+Introduzca el id del producto que quiere ver: 
+2
+ID:2 | Nombre: Pinzas planas | Precio unidad: 14.5000 | Id proveedor: 2
+
+Escoja opción:
+1.- PROVEEDORES
+2.- PRODUCTOS
+0.- Salir
+2
+
+Escoja opción:
+1.- Ver todos los productos
+2.- Ver un producto concreto
+3.- Crear un nuevo producto
+4.- Modificar un producto
+5.- Eliminar un producto
+3
+Introduzca el nombre del nuevo producto: 
+Alicates
+Introduzca el precio unitario del nuevo producto: 
+24,75
+Introduzca el ID del proveedor del producto: 
+1
+Nuevo producto añadido
+
+Escoja opción:
+1.- PROVEEDORES
+2.- PRODUCTOS
+0.- Salir
+java.lang.NumberFormatException: For input string: ""
