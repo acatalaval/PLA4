@@ -10,7 +10,7 @@ public class Main {
 		String cadConexion = "jdbc:mysql://localhost:3306/";
 		String bd = "ej_ddl_pla4";
 		String usuario = "root";
-		String pass = "S1p0d3m!";
+		String pass = "*******";
 		try {
 		     Class.forName("com.mysql.jdbc.Driver").newInstance();
 		     Connection con = DriverManager.getConnection(cadConexion + bd, usuario, pass);
